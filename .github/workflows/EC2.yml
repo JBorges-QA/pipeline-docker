@@ -1,6 +1,0 @@
-name: Entrega Contínua
-
-on:
-  workflow_call: 
-
-jobs:
